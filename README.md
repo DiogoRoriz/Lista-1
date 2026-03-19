@@ -3,6 +3,22 @@
 primeiro do carro
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 public class Main {
     public static void main(String[] args) throws InterruptedException {
         int aceleracao = 0, velocidade = 20, escolha = 0, aumentarvelocidade = 20, reduzirvelocidade = -20;
